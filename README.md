@@ -30,4 +30,8 @@
 <img src="https://user-images.githubusercontent.com/110593132/224226293-329cde5c-4816-45b1-a297-4eef357f37bf.png" height=300>
 
 
+## WHITE DUCKY DESIGN
+
+### On 10 march 2023
+<img src="https://user-images.githubusercontent.com/110593132/224275216-8cb73b91-ec2f-445a-a68f-33286abe4f9c.png" height=300>
 
