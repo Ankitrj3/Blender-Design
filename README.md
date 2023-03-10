@@ -6,6 +6,12 @@
 <img src="https://user-images.githubusercontent.com/110593132/224258487-00d95577-808e-4380-8d4a-8d788b635e05.png" height=300>
 
 
+## NORMAL CUBE
+
+### On 04 march 2023
+<img src="https://user-images.githubusercontent.com/110593132/224259247-7bf874a4-9a13-4249-9c7a-e781224f3b8a.jpeg" height=300>
+
+
 ## BASIC ROOM DESIGN
 
 ### On 07 march 2023
