@@ -35,12 +35,12 @@
 ### On 10 march 2023
 <img src="https://user-images.githubusercontent.com/110593132/224275216-8cb73b91-ec2f-445a-a68f-33286abe4f9c.png" height=300>
 
-## TABLE DESIGN PART 2
+## TABLE DESIGN 
 
 ### On 11 march 2023
 <img src="https://user-images.githubusercontent.com/110593132/224480428-906d53d9-40a6-43e2-ba6d-cc411c0967c9.png" height=300>
 
-## BASIC ROOM DESIGN
+## BASIC ROOM DESIGN PART 2
 
 ### On 12 march 2023
 <img src="https://user-images.githubusercontent.com/110593132/224554623-118392e4-85af-4952-afd1-a7cdddd30b35.png" height=300>
