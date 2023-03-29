@@ -54,3 +54,13 @@
 ## BASIC TABLE AND GLASS DESIGN
 ## On 27 march 2023
 <img src="https://user-images.githubusercontent.com/110593132/227858565-66db0bb7-45e0-4e84-9602-2f9f137b4030.png" height=300>
+
+## SPOON DESIGN
+## On 28 march 2023
+<img src="https://user-images.githubusercontent.com/110593132/228448040-8d151755-be26-4f57-8fea-501260a71577.png" height=300>
+
+
+## JUICE DESIGN
+## On 29 march 2023
+<img src="https://user-images.githubusercontent.com/110593132/228447959-daf805c2-7b91-4967-a1fe-438a8472f8f5.png" height=300>
+
