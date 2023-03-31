@@ -64,7 +64,13 @@
 ## On 29 march 2023
 <img src="https://user-images.githubusercontent.com/110593132/228447959-daf805c2-7b91-4967-a1fe-438a8472f8f5.png" height=300>
 
-## BASIC FLOWER DESIGN
+## BASIC FLOWER POT DESIGN
 ## On 30 march 2023
 
 <img src="https://user-images.githubusercontent.com/110593132/228710550-d1fc3af9-8c12-4fce-8060-ff718f27bd36.png" height=300>
+
+## CART DESIGN
+## On 31 march 2023
+
+<img src="https://user-images.githubusercontent.com/110593132/229052538-4bda2cca-2678-47ad-8ef3-4e131783db3a.png" height=300>
+
