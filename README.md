@@ -94,3 +94,10 @@
 
 <img src="https://user-images.githubusercontent.com/110593132/229328315-0bbcd9cf-417e-47dd-9fb8-f7a72c5c9122.png" height=300>
 
+## MIXER DESIGN
+
+## On 02 april 2023
+
+<img src="https://user-images.githubusercontent.com/110593132/229332536-91e90957-7686-45cb-af9b-21c4894cbb91.png" height=300>
+
+
