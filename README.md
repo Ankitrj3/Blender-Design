@@ -106,3 +106,11 @@
 ## On 12 april 2023
 
 <img src="https://user-images.githubusercontent.com/110593132/231526338-aa6e7ffd-ffbb-4fd6-88fe-1ba90cdd28bf.png" height=300>
+
+
+## ROOM DESIGN PART 2
+
+## On 12 april 2023
+
+<img src="https://user-images.githubusercontent.com/110593132/231526810-098eedaf-aa33-45c2-9e79-a8f49d55c7aa.png" height=300>
+
