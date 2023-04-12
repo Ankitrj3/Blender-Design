@@ -101,3 +101,8 @@
 <img src="https://user-images.githubusercontent.com/110593132/229332536-91e90957-7686-45cb-af9b-21c4894cbb91.png" height=300>
 
 
+## TABLE DESIGN PART 3
+
+## On 12 april 2023
+
+<img src="https://user-images.githubusercontent.com/110593132/231526338-aa6e7ffd-ffbb-4fd6-88fe-1ba90cdd28bf.png" height=300>
