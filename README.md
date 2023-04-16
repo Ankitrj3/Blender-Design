@@ -114,3 +114,10 @@
 
 <img src="https://user-images.githubusercontent.com/110593132/231526810-098eedaf-aa33-45c2-9e79-a8f49d55c7aa.png" height=300>
 
+## JUICE DESIGN PART 2
+
+## On 16 april 2023
+
+<img src="https://user-images.githubusercontent.com/110593132/232294345-9ca09528-375c-4eb0-a5bb-46b58e15267f.png" height=300>
+
+
