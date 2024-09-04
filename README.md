@@ -129,8 +129,12 @@
 ## On 18 april 2023
 <img src="https://user-images.githubusercontent.com/110593132/232675858-22a406ca-f32a-4efe-90b0-a26df5e25508.jpg" height=300>
 
-##BASIC BUILDING
+## BASIC BUILDING
 ## On 30 april 2023
 <img src="https://user-images.githubusercontent.com/110593132/235364729-16d72d08-f2fa-4a2e-a677-9ba106a975b3.png" height=300>
+
+## PARK MADE WITH CUBES ONLY
+![CubePark](https://github.com/user-attachments/assets/8a300d4f-c37e-4672-ba37-a92bda96d8aa)
+
 
 
