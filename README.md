@@ -136,5 +136,8 @@
 ## PARK MADE WITH CUBES ONLY
 ![CubePark](https://github.com/user-attachments/assets/8a300d4f-c37e-4672-ba37-a92bda96d8aa)
 
+## UPDATED PARK DESIGN
+![ParkUpdated](https://github.com/user-attachments/assets/9907772b-3bc8-49c8-8a31-2a761a64a58e)
+
 
 
