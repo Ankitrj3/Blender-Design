@@ -144,3 +144,6 @@
 
 ![futureH](https://github.com/user-attachments/assets/bedeb985-e23f-48f7-bec4-02f458310e53)
 
+## RoBo Design
+![robo](https://github.com/user-attachments/assets/e02fa921-8b0e-4b8f-add7-0ec3cf08b786)
+
