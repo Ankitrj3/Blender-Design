@@ -150,3 +150,7 @@
 ## RoBo Duck Design Updated
 ![duck](https://github.com/user-attachments/assets/4eaf9d3a-9c3d-4693-95b5-5541620995e9)
 
+## Futuristic Train Design
+
+![futuristicTrain](https://github.com/user-attachments/assets/738bab3d-9f72-485e-80e4-11ba3ee27369)
+
