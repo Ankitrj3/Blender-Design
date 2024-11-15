@@ -30,7 +30,7 @@
 <img src="https://user-images.githubusercontent.com/110593132/224226293-329cde5c-4816-45b1-a297-4eef357f37bf.png" height=300>
 
 
-## WHITE DUCKY DESIGN
+## ROBO WHITE DUCKY DESIGN
 
 ### On 10 march 2023
 <img src="https://user-images.githubusercontent.com/110593132/224275216-8cb73b91-ec2f-445a-a68f-33286abe4f9c.png" height=300>
@@ -146,4 +146,7 @@
 
 ## RoBo Design
 ![robo](https://github.com/user-attachments/assets/e02fa921-8b0e-4b8f-add7-0ec3cf08b786)
+
+## RoBo Duck Design Updated
+![duck](https://github.com/user-attachments/assets/4eaf9d3a-9c3d-4693-95b5-5541620995e9)
 
