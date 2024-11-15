@@ -139,5 +139,8 @@
 ## UPDATED PARK DESIGN
 ![ParkUpdated](https://github.com/user-attachments/assets/9907772b-3bc8-49c8-8a31-2a761a64a58e)
 
+## Futuristic Home
+![futureHome](https://github.com/user-attachments/assets/3968a5c7-fd18-46d6-be5c-42e9bd910d12)
 
+![futureH](https://github.com/user-attachments/assets/bedeb985-e23f-48f7-bec4-02f458310e53)
 
