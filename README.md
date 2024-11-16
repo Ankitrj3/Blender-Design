@@ -160,3 +160,7 @@
 ![futuristicTrain](https://github.com/user-attachments/assets/738bab3d-9f72-485e-80e4-11ba3ee27369)
 ## Futuristic RoBo Design
 ![RoBoT2](https://github.com/user-attachments/assets/53e2aa7b-2a6f-49b9-a88f-240a7d3e6d6a)
+
+## Coffee Shop
+![coffeeshop](https://github.com/user-attachments/assets/28929862-870d-42e7-bb67-644d9e42738a)
+
