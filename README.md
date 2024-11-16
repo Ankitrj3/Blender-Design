@@ -139,6 +139,7 @@
 ## UPDATED PARK DESIGN
 ![ParkUpdated](https://github.com/user-attachments/assets/9907772b-3bc8-49c8-8a31-2a761a64a58e)
 
+
 ## Futuristic Home
 ![futureHome](https://github.com/user-attachments/assets/3968a5c7-fd18-46d6-be5c-42e9bd910d12)
 
@@ -150,6 +151,9 @@
 
 ## RoBo Duck Design Updated
 ![duck](https://github.com/user-attachments/assets/4eaf9d3a-9c3d-4693-95b5-5541620995e9)
+
+## Golden Coin
+![coin](https://github.com/user-attachments/assets/166fa615-8406-4dd8-820e-ab9eed3108ab)
 
 ## Futuristic Train Design
 
