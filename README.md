@@ -1,3 +1,101 @@
+<h1>Basic Tools Introduction</h1>
+
+---
+
+### **Textures and Materials**
+1. **Environment Texture for World Background**:
+   - Go to **World Properties** in the right-hand menu.
+   - Set **Color** → **Environment Texture**.
+   - Load an HDRI or image texture for realistic lighting and reflections.
+
+---
+
+### **Subdivision Surface Modifier**
+1. **Adding Subdivision Surface**:
+   - Go to **Modifiers** → **Add Modifier**.
+   - Under **Generate**, select **Subdivision Surface**.
+   - Adjust the levels for **Viewport** and **Render** for smoother geometry.
+
+---
+
+### **Bevel Tool**
+1. **Creating Gaps Between Edges**:
+   - Switch to **Edit Mode**.
+   - Select the edges you want to bevel.
+   - Use the **Bevel Tool** (shortcut: `Ctrl + B`) and drag to create gaps.
+2. **Connecting Edges by Removing Faces**:
+   - Select faces and delete them.
+   - Manually connect edges using tools like **Knife** or **Bridge Edge Loops**.
+3. **Separating Edges or Sections**:
+   - In **Edit Mode**, select the edges or geometry.
+   - Press `P` → choose **Separate by Selection** or **Separate by Material**.
+
+---
+
+### **Knife Tool**
+1. **Using the Knife Tool**:
+   - Activate the **Knife Tool** in **Edit Mode**.
+   - Click to make cuts, and press **Enter** to confirm and exit the tool.
+
+---
+
+### **Extrusions and Insertions**
+1. **Extruding Faces Inside**:
+   - Use `Alt + E` → Select **Extrude Along Normals** or **Individual Faces**.
+2. **Inset Faces**:
+   - Use `I` to create an inset within a selected face or faces.
+
+---
+
+### **Roughness for Materials**
+1. **Adjusting Roughness**:
+   - Set **Roughness** to **0.05** in the material properties for a smoother, shinier surface.
+
+---
+
+### **Transformations**
+1. **Decreasing Vertex Width**:
+   - Use `Ctrl + A` to apply transformations and adjust vertex scales.
+
+---
+
+### **Mirror Modifier**
+1. **Using the Mirror Modifier**:
+   - Divide a cube or mesh by removing one side’s vertices in **Edit Mode**.
+   - Go to **Modifiers** → **Add Modifier** → **Generate** → **Mirror**.
+   - Enable **Clipping** to merge edges at the center.
+2. **Loop Cuts**:
+   - Use `Ctrl + R` in **Edit Mode** for precise loop cuts.
+
+---
+
+### **Animation**
+1. **Inserting Keyframes**:
+   - Press `I` in the **Timeline** to insert keyframes for transformations (e.g., location, rotation, scale).
+
+---
+
+### **Particle System**
+1. **Creating Particles**:
+   - Add a **Particle System** to an object.
+   - Adjust **Emission Number** for the density of particles.
+   - Under **Render**, set **Render As Object**.
+   - Use **Instance Object** to define the object type emitted by the particles.
+
+---
+
+### **Creating Fire in Blender**
+1. **Setting up Fire Simulation**:
+   - Add a **Plane** and go to **Particles**.
+   - Set the **Number** to `0`.
+   - In **Physics Properties**, choose **Fluid** → **Flow**.
+   - Set **Flow Type** to **Fire + Gas**.
+   - For **Flow Behavior**, choose **Inflow** and set **Density** to `10`.
+   - Add a **Cube** and apply **Physics** → **Fluid** → **Domain Type** → **Gas**.
+
+---
+
+
 # Blender-Design
 
 ## BASIC ROBOT DESIGN
